@@ -1,0 +1,40 @@
+.nav-button {
+    -fx-background-color: transparent;
+    -fx-padding  : 10px 10px;
+    -fx-pref-width : 195px;
+    -fx-text-fill : #BFBFFF;
+    -fx-font-size : 18;
+    -fx-alignment : baseline-left;
+    -fx-font-weight: 700;
+}
+.manageButton {
+   -fx-pref-width : 900px;
+   -fx-text-fill : white;
+   -fx-background-color: #4536a4;
+   -fx-cursor : hand;
+}
+
+.nav-button:hover {
+    -fx-background-color: #120175;
+    -fx-cursor : hand;
+
+}
+
+.nav-item {
+    -fx-background-color: transparent;
+    -fx-padding : 20px 0px 10px 0px;
+}
+.ind{
+    -fx-background-color : #d0bfff;
+    -fx-border-radius : 5px;
+    -fx-background-radius : 5px;
+}
+.side-menu{
+    -fx-padding: 20px 0px 0px 0px;
+}
+.main-panel{
+    -fx-background-color : white;
+    -fx-border-radius : 10px;
+    -fx-background-radius : 10px;
+    -fx-padding : 10px;
+}
